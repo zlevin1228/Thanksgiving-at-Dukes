@@ -1,0 +1,215 @@
+body {
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.center {
+  text-align:center;
+}
+
+div.background {
+  background-image: url("thanksgiving900by1200.jpg");
+  background-repeat: no-repeat;
+  width:900px;
+  height:1200px;
+}
+
+h1 {
+  color:teal;
+  display:inline;
+  font-weight:600;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:55px;
+}
+
+h1.regular {
+  font-weight:normal;
+  font-size:55px;
+}
+
+h2 {
+  font-weight:normal;
+  font-size:55px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:teal;
+  display:inline;
+}
+
+h3.bold {
+  font-size:27.5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:teal;
+  display:inline;
+}
+
+h3.wall {
+  font-size:27.5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:orange;
+  display:inline;
+}
+
+h3.regular {
+  font-size:27.5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:teal;
+  display:inline;
+  font-weight: 2;
+}
+
+h3 {
+  font-size:17.5px
+}
+
+hr {
+  border-color:orange;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align:center;
+}
+
+h4.barrier {
+  font-size:20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:orange;
+  display:inline;
+}
+
+h4.basic {
+  font-size:20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:black;
+  font-weight: 20;
+  display:inline;
+}
+
+h4 {
+  font-size:17.5px
+}
+
+h4.squiggle {
+  width:600px;
+  margin-left: 1px;
+  color:darkgoldenrod;
+  margin-top:auto;
+  margin-bottom: -2.5px
+}
+
+h4.squiggles {
+  width:600px;
+  margin-left: 1px;
+  color:darkgoldenrod;
+  margin-top:-25px;
+  margin-bottom: -2.5px
+}
+
+h5 {
+  margin-top: -20px;
+}
+
+h5.bold {
+  color:teal;
+  font-size:20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  display:inline;
+}
+
+h5.header {
+  display:inline;
+  color:teal;
+  font-size:20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight:50;
+}
+
+br.length {
+  display: block;
+  margin: 15px 0;
+  content: " ";
+}
+
+p.paragraph1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:15px;
+  margin-top: -30px;
+  padding:15px;
+  font-weight: 250;
+}
+
+br.p {
+  height: 2px;
+}
+
+h6.visit {
+  margin-top:-20px;
+}
+
+hr.gold {
+  color:goldenrod;
+  width: 635px;
+  margin-top:-12.5px;
+  margin-left: 0px;
+}
+
+h6.bold {
+  display:inline;
+  font-weight: 600;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h6.regular {
+  display:inline;
+  font-weight: 200;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+br.br {
+  display: block;
+  margin: 7.5px 0;
+  content: " ";
+}
+
+h6.giving {
+  margin-top:-10px;
+  font-size:15px;
+  font-weight: 200;
+}
+
+p.paragraph2 {
+  font-weight: 250;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.paragraph3 {
+  margin-top:-55px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight:250;
+  font-size:15px;
+  padding:10px;
+}
+
+p.paragraph4 {
+  margin-top:-15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight:250;
+  font-size:15px;
+}
+
+p.paragraph5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -30px;
+  font-size:12.5px;
+}
+
+img {
+  width:450px;
+  height:225px;
+}
